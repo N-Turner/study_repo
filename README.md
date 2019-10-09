@@ -1,4 +1,6 @@
 # study_repo
-A great repo for studying
+A great repo for studying.
 
-I am trying out the pull request feature in a new way
+We will study C++ and other languages and technologies with this repo.
+
+What an exciting opportunity!!
